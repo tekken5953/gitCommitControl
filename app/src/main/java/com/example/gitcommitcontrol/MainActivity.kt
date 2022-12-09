@@ -9,5 +9,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         Log.d("tag","first commit")
+        Log.d("tag","second commit")
+        Log.d("tag","third commit")
+        Log.d("tag","fourth commit")
     }
 }
